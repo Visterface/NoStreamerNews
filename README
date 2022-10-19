@@ -1,0 +1,14 @@
+Add-on for Chromium-Browser
+Filter out and remove News with "Streamer", "Twitch" and "YouTube" in the heading.
+
+How to use:
+1. Download the Folder
+2. On Chrome:
+  - Go to chrome://extensions/.
+  - At the top right, turn on Developer mode.
+  - Click Load unpacked.
+  - Select the NoStreamerNews Folder
+
+On other Chromium Browsers:
+  - search for the how to yourself
+  - for edge it is almost the same way as for chrome
