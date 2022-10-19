@@ -10,15 +10,14 @@ async function filter() {
             var text = article[i].textContent.toLowerCase();
             if (text.includes("streamer") || text.includes("twitch") || text.includes("youtube")) {
                 article[i].innerHTML = "";
-
             }
         }
     }
 }
+
 self.filter()
 
 var button = document.getElementsByClassName("loadmore")
-var scroll = document.addEventListener("scroll", filter)
 if (button) {
     for (let i = 0; i < button.length; i++) {
         button[i].onclick = filter;
