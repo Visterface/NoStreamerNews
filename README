@@ -1,4 +1,5 @@
-Add-on for Chromium-Browser
+Add-on for Chromium-Browser.
+Only works on www.mein-mmo.de
 Filter out and remove News with "Streamer", "Twitch" and "YouTube" in the heading.
 
 How to use:
