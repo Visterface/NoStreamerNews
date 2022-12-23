@@ -3,6 +3,10 @@ Only works on www.mein-mmo.de
 Filter out and remove News with "Streamer", "Twitch" and "YouTube" in the heading.
 
 How to use:
+  - visit www.mein-mmo.de
+  - it works automaticly
+
+How to install:
 On Edge:
   - Search for "NoStreamerNews" on https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?
   - Install it
@@ -16,5 +20,4 @@ On Edge:
   
 On other Chromium Browsers:
   - search for the how to yourself
-  - for edge it is almost the same way as for chrome
 
